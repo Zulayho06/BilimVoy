@@ -1,0 +1,7 @@
+{
+  "name": "BilimVoy: Rus Tili va Mental Arifmetika 1-Sinf",
+  "description": "1-sinf o'quvchilari uchun rus tili (alifbo, bo'g'inlar, lug'at) va mental arifmetika (soroban abakusi, flesh-anzan, formulalar) interaktiv o'yin ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
